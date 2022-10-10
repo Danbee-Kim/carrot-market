@@ -17,7 +17,7 @@
 <details>
 <summary><b>메인 페이지</b></summary>
 
-- 지역과 카테코기별로 선택하여 게시글을 모아서 볼 수 있습니다.
+- 지역과 카테고리별로 선택하여 게시글을 모아서 볼 수 있습니다.
 <img width="1440" alt="스크린샷 2022-10-10 오후 2 35 20" src="https://user-images.githubusercontent.com/107227445/194804517-8f5afc80-6e3a-4dad-b259-c10ccbd89806.png">
 <img width="1440" alt="스크린샷 2022-10-10 오후 2 36 37" src="https://user-images.githubusercontent.com/107227445/194804511-f91921dd-8fc6-472c-b1ab-f6a12289196d.png">
 
@@ -31,6 +31,8 @@
 
 - 게시글 상세 보기에선 댓글 작성 및 다른 사용자들이 작성한 댓글을 볼 수 있습니다.
 
+- 해당 게시글을 "좋아요" 누를 수 있습니다. 
+
   <img width="1440" alt="스크린샷 2022-10-10 오후 2 36 46" src="https://user-images.githubusercontent.com/107227445/194804503-fa3d28fd-18fa-4976-a840-62ad1e5f46ac.png">   
 
 </details>
@@ -40,6 +42,8 @@
 <summary><b>게시글 작성</b></summary>
 
 - 게시글을 작성할 수 있습니다.
+
+- 이미지를 최대 5장까지 올릴 수 있습니다.
 <img width="1440" alt="스크린샷 2022-10-10 오후 2 37 47" src="https://user-images.githubusercontent.com/107227445/194804486-05d73030-bc51-4160-b4ff-1d5aeeeb7e04.png">
     
 </details>
